@@ -1,6 +1,6 @@
 ## Hi there, I'm Ankita 👋👋
 
-<!--
+
 **ankita34359/ankita34359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🚀 About Me
@@ -55,4 +55,4 @@ Here are some of my key machine learning projects:
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ankita-gupta-34359abcd/)
 
--->
+
