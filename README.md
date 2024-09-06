@@ -14,7 +14,7 @@ I am a Web developer and DSA learner in Java. And always looking for opportuniti
 
 ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita34359&show_icons=true&theme=radical)
 
-## ⚡ My GitHub Stats:
+## 📈 GitHub Contributions
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankita34359&theme=radical)
 
 ## 💻 Top Languages:
