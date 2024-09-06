@@ -10,8 +10,12 @@ I am a Web developer and DSA learner in Java. And always looking for opportuniti
 - 💬 Ask me about Machine Learning and Java. 
 - 📫 How to reach me: https://www.linkedin.com/in/ankita-gupta-34359abcd/
 
-## ⚡ My GitHub Stats:
+## 📈 GitHub Stats
+
 ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita34359&show_icons=true&theme=radical)
+
+## ⚡ My GitHub Stats:
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankita34359&theme=radical)
 
 ## 💻 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita34359&layout=compact&theme=radical)
@@ -27,6 +31,7 @@ I am a Web developer and DSA learner in Java. And always looking for opportuniti
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankita34359&theme=radical)
+
 
 ## 📈 GitHub Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ankita34359&theme=radical)
@@ -51,5 +56,3 @@ Here are some of my key machine learning projects:
 
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ankita-gupta-34359abcd/)
-
-
