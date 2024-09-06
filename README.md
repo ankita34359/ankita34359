@@ -1,4 +1,4 @@
-## Hi there, I'm Ankita 👋👋
+## Hi, I'm Ankita 👋👋
 
 ## 🚀 About Me
 
