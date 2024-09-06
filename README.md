@@ -1,8 +1,5 @@
 ## Hi there, I'm Ankita 👋👋
 
-
-**ankita34359/ankita34359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🚀 About Me
 
 I am a Web developer and DSA learner in Java. And always looking for opportunities to improve my skills.
