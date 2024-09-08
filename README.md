@@ -50,7 +50,20 @@ Here are some of my key machine learning projects:
 3. **[Bank Customer Churn Prediction](https://github.com/ankita34359/Machine-Learning-Bank-Customer-Churn-Prediction-Project-3)**
    - **Description**: This project aims to predict customer churn in the banking sector using a machine learning approach. 
    - **Technologies Used**: Python, Pandas, Numpy.
-   
+
+
+ ## 🚀 Projects
+
+### 1. [E-commerce Website](https://github.com/ankita34359/e-commerce-website)
+An e-commerce website built using HTML, CSS, and JavaScript. Includes features like product listings, shopping cart, and payment integration.
+
+### 2. [Weather Forecast App](https://github.com/ankita34359/weather-forecast-app)
+A weather forecasting app that uses Python and OpenWeather API to fetch real-time weather data for any location.
+
+### 3. [Machine Learning Project](https://github.com/ankita34359/machine-learning-project)
+A machine learning model that predicts housing prices using linear regression. Built with Python and Scikit-learn.
+
+
 
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ankita-gupta-34359abcd/)
