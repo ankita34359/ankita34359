@@ -124,7 +124,8 @@ Here are some of my key python backend projects:
 
     
   
-### Python Projects
+ ## 🚀 Python Projects
+
 Here are some of my key python projects:
 
 1. **[ChatBot](https://github.com/ankita34359/ChatBot-project)**
@@ -142,19 +143,6 @@ Here are some of my key python projects:
 4. **[Calculator]https://github.com/ankita34359/calculator-project)**
    - **Description**: This is a simple calculator which perform calculations on the numbers that is entered by the user.
    - **Technologies Used**: Python.
-
-
- ## 🚀 Projects
-
-### 1. [E-commerce Website](https://github.com/ankita34359/e-commerce-website)
-An e-commerce website built using HTML, CSS, and JavaScript. Includes features like product listings, shopping cart, and payment integration.
-
-### 2. [Weather Forecast App](https://github.com/ankita34359/weather-forecast-app)
-A weather forecasting app that uses Python and OpenWeather API to fetch real-time weather data for any location.
-
-### 3. [Machine Learning Project](https://github.com/ankita34359/Machine-Learning-Penguin-Model-Comparing-Algorithms-KNN-DT-RFC)
-A machine learning model that predicts the species of penguins. Built with Python and Scikit-learn.
-
 
 
 ## 📫 Connect with Me:
