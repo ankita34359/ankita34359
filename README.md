@@ -110,6 +110,38 @@ Here are some of my key web development projects:
    - **Technologies Used**: HTML, CSS and Javascript.
 
 
+ ### Python Backend Projects
+Here are some of my key python backend projects:
+
+1. **[Task Manager App](https://github.com/ankita34359/TaskManagerApp)**
+   - **Description**: This is a task manager app where user can add, delete and update the task.
+   - **Technologies Used**: HTMl, Bootstrap and Python.
+
+2. **[Education Managment System](https://github.com/ankita34359/Education-Managment-System)**
+   - **Description**: This is a education managment system where faculty can add, delete and update the details of students
+   - **Technologies Used**: HTMl, Bootstrap and Python.
+
+    
+  
+### Python Projects
+Here are some of my key python projects:
+
+1. **[ChatBot](https://github.com/ankita34359/ChatBot-project)**
+   - **Description**: This is a ChatBot project.
+   - **Technologies Used**: Python.
+  
+2. **[Mars Rover](https://github.com/ankita34359/Mars-Rover-python-project)**
+   - **Description**: This mars rover project show the live images of the mars planet.
+   - **Technologies Used**: Python.
+  
+3. **[Rock Paper Scissor](https://github.com/ankita34359/RockPaperScissor-python-project)**
+   - **Description**: This project is used to play rock paper and scissor game. 
+   - **Technologies Used**: Python.
+  
+4. **[Calculator]https://github.com/ankita34359/calculator-project)**
+   - **Description**: This is a simple calculator which perform calculations on the numbers that is entered by the user.
+   - **Technologies Used**: Python.
+
 
  ## 🚀 Projects
 
