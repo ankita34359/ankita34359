@@ -82,6 +82,35 @@ Here are some of my key machine learning projects:
    - **Technologies Used**: Python and Pandas.
 
 
+### Web Development Projects
+Here are some of my key web development projects:
+
+1. **[Weather App](https://github.com/ankita34359/Weather-app-js-project)**
+   - **Description**: This project predict the live weather of any place or location. 
+   - **Technologies Used**: HTML, CSS and Javascript.
+  
+2. **[Theme Clock](https://github.com/ankita34359/Theme-Clock)**
+   - **Description**: This project show the live date and time.
+   - **Technologies Used**: HTML, CSS and Javascript.
+  
+3. **[Guess Number](https://github.com/ankita34359/Guess-My-Number)**
+   - **Description**: This project guess the numbers that is entered by the user.
+   - **Technologies Used**: HTML, CSS and Javascript.
+  
+4. **[To Do App](https://github.com/ankita34359/To-do-App-by-using-Javascript)**
+   - **Description**: This project create a to do list for the user. 
+   - **Technologies Used**: HTML, CSS and Javascript.
+
+5. **[Iphone Calculator](https://github.com/ankita34359/Iphone-Calculator-project)**
+   - **Description**: This is calculator which have the same GUI as the Iphone calculators have. 
+   - **Technologies Used**: HTML, CSS and Javascript.
+  
+6. **[Simple Calculator](https://github.com/ankita34359/SimpleCalculatorApp-js-project)**
+   - **Description**: This is a simple calculator which perform calculations on the numbers that is entered by the user.
+   - **Technologies Used**: HTML, CSS and Javascript.
+
+
+
  ## 🚀 Projects
 
 ### 1. [E-commerce Website](https://github.com/ankita34359/e-commerce-website)
