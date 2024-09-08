@@ -60,8 +60,8 @@ An e-commerce website built using HTML, CSS, and JavaScript. Includes features l
 ### 2. [Weather Forecast App](https://github.com/ankita34359/weather-forecast-app)
 A weather forecasting app that uses Python and OpenWeather API to fetch real-time weather data for any location.
 
-### 3. [Machine Learning Project](https://github.com/ankita34359/machine-learning-project)
-A machine learning model that predicts housing prices using linear regression. Built with Python and Scikit-learn.
+### 3. [https://github.com/ankita34359/Machine-Learning-Penguin-Model-Comparing-Algorithms-KNN-DT-RFC)
+A machine learning model that predicts the species of penguins. Built with Python and Scikit-learn.
 
 
 
