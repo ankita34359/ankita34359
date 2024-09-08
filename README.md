@@ -57,7 +57,7 @@ Here are some of my key machine learning projects:
    - **Technologies Used**: Python, Pandas and Numpy.
    - **Video**: [Watch the demo video](https://youtu.be/VaU8UQs-CAY)
 
-6. **[Loan Approval MOdel](https://github.com/ankita34359/Machine-Learning-Decision-Tree-Loan-Approval-Model)**
+6. **[Loan Approval Model](https://github.com/ankita34359/Machine-Learning-Decision-Tree-Loan-Approval-Model)**
    - **Description**: This project aims to predict whether the person will eligible for loan approval or not. 
    - **Technologies Used**: Python, Pandas and Numpy.
   
