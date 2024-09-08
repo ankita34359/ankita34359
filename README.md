@@ -36,7 +36,8 @@ I am a Web developer and DSA learner in Java. And always looking for opportuniti
 
 ## 🚀 Project Highlights
 
-### Machine Learning Projects
+ ##  Machine Learning Projects
+
 Here are some of my key machine learning projects:
 
 1. **[Heart Disease Prediction](https://github.com/ankita34359/Machine-Learning-Heart-Disease-Prediction-Project-1-)**
@@ -83,7 +84,8 @@ Here are some of my key machine learning projects:
 
 
 
-### Web Development Projects
+ ##  Web Development Projects
+
 Here are some of my key web development projects:
 
 1. **[Weather App](https://github.com/ankita34359/Weather-app-js-project)**
@@ -111,7 +113,8 @@ Here are some of my key web development projects:
    - **Technologies Used**: HTML, CSS and Javascript.
 
 
- ### Python Backend Projects
+ ##  Python Backend Projects
+
 Here are some of my key python backend projects:
 
 1. **[Task Manager App](https://github.com/ankita34359/TaskManagerApp)**
@@ -124,7 +127,7 @@ Here are some of my key python backend projects:
 
     
   
- ## 🚀 Python Projects
+ ##  Python Projects
 
 Here are some of my key python projects:
 
