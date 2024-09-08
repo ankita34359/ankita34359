@@ -70,7 +70,7 @@ Here are some of my key machine learning projects:
 8. **[Iris Flower Species Prediction](https://github.com/ankita34359/Machine-Learning-KNN-Algo-Iris-Model)**
     - **Description**: This project aims to predict species of Iris flower. 
     - **Technologies Used**: Python, Pandas and Numpy.
-    - **Video**: [Watch the video](https://youtu.be/HB9T9Url7pQ?feature=shared)
+    - **Video**: [Watch the video](https://youtu.be/aGFYa_Lq_N0?feature=shared)
 
   
 9.  **[Medical Insurance Model](https://github.com/ankita34359/Machine-Learning-Regression-Medical-Insurance-2)**
