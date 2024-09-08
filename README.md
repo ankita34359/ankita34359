@@ -60,23 +60,30 @@ Here are some of my key machine learning projects:
 6. **[Loan Approval Model](https://github.com/ankita34359/Machine-Learning-Decision-Tree-Loan-Approval-Model)**
    - **Description**: This project aims to predict whether the person will eligible for loan approval or not. 
    - **Technologies Used**: Python, Pandas and Numpy.
+   - **Video**: [Watch the video](https://youtu.be/FeKD8zO4BQM?feature=shared)
   
 7. **[Titanic Members Survival Status](https://github.com/ankita34359/Machine-Learning-Logistic-Regression-Titanic-)**
    - **Description**: This project aims to predict whether the person will survive or not in the titanic ship which was crashed. 
    - **Technologies Used**: Python, Pandas and Numpy.
+   - **Video**: [Watch the video](https://youtu.be/e4mNk0_8vTc?feature=shared)
   
 8. **[Iris Flower Species Prediction](https://github.com/ankita34359/Machine-Learning-KNN-Algo-Iris-Model)**
     - **Description**: This project aims to predict species of Iris flower. 
     - **Technologies Used**: Python, Pandas and Numpy.
+    - **Video**: [Watch the video](https://youtu.be/HB9T9Url7pQ?feature=shared)
+
   
 9.  **[Medical Insurance Model](https://github.com/ankita34359/Machine-Learning-Regression-Medical-Insurance-2)**
     - **Description**: This project aims to predict medical insurance of the patients. 
     - **Technologies Used**: Python, Pandas and Numpy.
+    - **Video**: [Watch the video](https://youtu.be/pbxyqe5jvcQ?feature=shared)
+
 
 9.  **[Daily Bike Rental](https://github.com/ankita34359/Machine-Learning-Regression-Train-Model-Daily-Bike-Rental-1)**
     - **Description**: This project aims to predict how many bikes will rent on the particular day on the basis of weather situation and based on many other 
       factors. 
     - **Technologies Used**: Python, Pandas and Numpy.
+    - **Video**: [Watch the video](https://youtu.be/HB9T9Url7pQ?feature=shared)
 
 10.  **[Grade Prediction Model](https://github.com/ankita34359/Machine-Learning-Data-Processing-Grade-1-)**
      - **Description**: This project aims to learn the basics of machine learning like data preprocessing. 
