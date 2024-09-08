@@ -52,22 +52,23 @@ Here are some of my key machine learning projects:
    - **Technologies Used**: Python, Pandas and Numpy.
   
 4. **[Penguins Species Prediction](https://github.com/ankita34359/Machine-Learning-Penguin-Model-Comparing-Algorithms-KNN-DT-RFC)**
+     [Watch the demo video on YouTube](https://youtu.be/VaU8UQs-CAY)
    - **Description**: This project aims to predict the sepices of penguins using a machine learning approach. 
    - **Technologies Used**: Python, Pandas and Numpy.
 
-5. **[Loan Approval MOdel](https://github.com/ankita34359/Machine-Learning-Decision-Tree-Loan-Approval-Model)**
+6. **[Loan Approval MOdel](https://github.com/ankita34359/Machine-Learning-Decision-Tree-Loan-Approval-Model)**
    - **Description**: This project aims to predict whether the person will eligible for loan approval or not. 
    - **Technologies Used**: Python, Pandas and Numpy.
   
-6. **[Titanic Members Survival Status](https://github.com/ankita34359/Machine-Learning-Logistic-Regression-Titanic-)**
+7. **[Titanic Members Survival Status](https://github.com/ankita34359/Machine-Learning-Logistic-Regression-Titanic-)**
    - **Description**: This project aims to predict whether the person will survive or not in the titanic ship which was crashed. 
    - **Technologies Used**: Python, Pandas and Numpy.
   
-7. **[Iris Flower Species Prediction](https://github.com/ankita34359/Machine-Learning-KNN-Algo-Iris-Model)**
+8. **[Iris Flower Species Prediction](https://github.com/ankita34359/Machine-Learning-KNN-Algo-Iris-Model)**
    - **Description**: This project aims to predict species of Iris flower. 
    - **Technologies Used**: Python, Pandas and Numpy.
   
-8.  **[Medical Insurance Model](https://github.com/ankita34359/Machine-Learning-Regression-Medical-Insurance-2)**
+9.  **[Medical Insurance Model](https://github.com/ankita34359/Machine-Learning-Regression-Medical-Insurance-2)**
    - **Description**: This project aims to predict medical insurance of the patients. 
    - **Technologies Used**: Python, Pandas and Numpy.
 
