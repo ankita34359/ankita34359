@@ -78,8 +78,9 @@ Here are some of my key machine learning projects:
     - **Technologies Used**: Python, Pandas and Numpy.
 
 10.  **[Grade Prediction Model](https://github.com/ankita34359/Machine-Learning-Data-Processing-Grade-1-)**
-    - **Description**: This project aims to learn the basics of machine learning like data preprocessing. 
-    - **Technologies Used**: Python and Pandas.
+     - **Description**: This project aims to learn the basics of machine learning like data preprocessing. 
+     - **Technologies Used**: Python and Pandas.
+
 
 
 ### Web Development Projects
