@@ -1,4 +1,4 @@
-## Hi, I'm Ankita 👋👋
+ ## Hi, I'm Ankita 👋👋
 
 ## 🚀 About Me
 
@@ -36,7 +36,7 @@ I am a Web developer and DSA learner in Java. And always looking for opportuniti
 
 ## 🚀 Project Highlights
 
- ##  Machine Learning Projects
+ ###  Machine Learning Projects
 
 Here are some of my key machine learning projects:
 
@@ -143,7 +143,7 @@ Here are some of my key python projects:
    - **Description**: This project is used to play rock paper and scissor game. 
    - **Technologies Used**: Python.
   
-4. **[Calculator]https://github.com/ankita34359/calculator-project)**
+4. **[Calculator](https://github.com/ankita34359/calculator-project)**
    - **Description**: This is a simple calculator which perform calculations on the numbers that is entered by the user.
    - **Technologies Used**: Python.
 
