@@ -50,6 +50,10 @@ Here are some of my key machine learning projects:
 3. **[Bank Customer Churn Prediction](https://github.com/ankita34359/Machine-Learning-Bank-Customer-Churn-Prediction-Project-3)**
    - **Description**: This project aims to predict customer churn in the banking sector using a machine learning approach. 
    - **Technologies Used**: Python, Pandas, Numpy.
+  
+4. **[Penguins Species Prediction](https://github.com/ankita34359/Machine-Learning-Penguin-Model-Comparing-Algorithms-KNN-DT-RFC)**
+   - **Description**: This project aims to predict the sepices of penguins using a machine learning approach. 
+   - **Technologies Used**: Python, Pandas, Numpy. 
 
 
  ## 🚀 Projects
