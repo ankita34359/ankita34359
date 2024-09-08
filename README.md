@@ -41,19 +41,44 @@ Here are some of my key machine learning projects:
 
 1. **[Heart Disease Prediction](https://github.com/ankita34359/Machine-Learning-Heart-Disease-Prediction-Project-1-)**
    - **Description**: This project aims to predict the 10-year risk of coronary heart disease (CHD) using a machine learning approach. 
-   - **Technologies Used**: Python, Pandas, Numpy.
+   - **Technologies Used**: Python, Pandas and Numpy.
 
 2. **[Household Income Analysis](https://github.com/ankita34359/Machine-Learning-Household-Income-Analysis-Project-2)**
    - **Description**: This project aims to predict annual household income based on various demographic, socioeconomic, and personal factors.
-   - **Technologies Used**: Python, Pandas, Numpy.
+   - **Technologies Used**: Python, Pandas and Numpy.
    
 3. **[Bank Customer Churn Prediction](https://github.com/ankita34359/Machine-Learning-Bank-Customer-Churn-Prediction-Project-3)**
    - **Description**: This project aims to predict customer churn in the banking sector using a machine learning approach. 
-   - **Technologies Used**: Python, Pandas, Numpy.
+   - **Technologies Used**: Python, Pandas and Numpy.
   
 4. **[Penguins Species Prediction](https://github.com/ankita34359/Machine-Learning-Penguin-Model-Comparing-Algorithms-KNN-DT-RFC)**
    - **Description**: This project aims to predict the sepices of penguins using a machine learning approach. 
-   - **Technologies Used**: Python, Pandas, Numpy. 
+   - **Technologies Used**: Python, Pandas and Numpy.
+
+5. **[Loan Approval MOdel](https://github.com/ankita34359/Machine-Learning-Decision-Tree-Loan-Approval-Model)**
+   - **Description**: This project aims to predict whether the person will eligible for loan approval or not. 
+   - **Technologies Used**: Python, Pandas and Numpy.
+  
+6. **[Titanic Members Survival Status](https://github.com/ankita34359/Machine-Learning-Logistic-Regression-Titanic-)**
+   - **Description**: This project aims to predict whether the person will survive or not in the titanic ship which was crashed. 
+   - **Technologies Used**: Python, Pandas and Numpy.
+  
+7. **[Iris Flower Species Prediction](https://github.com/ankita34359/Machine-Learning-KNN-Algo-Iris-Model)**
+   - **Description**: This project aims to predict species of Iris flower. 
+   - **Technologies Used**: Python, Pandas and Numpy.
+  
+8.  **[Medical Insurance Model](https://github.com/ankita34359/Machine-Learning-Regression-Medical-Insurance-2)**
+   - **Description**: This project aims to predict medical insurance of the patients. 
+   - **Technologies Used**: Python, Pandas and Numpy.
+
+9.  **[Daily Bike Rental](https://github.com/ankita34359/Machine-Learning-Regression-Train-Model-Daily-Bike-Rental-1)**
+   - **Description**: This project aims to predict how many bikes will rent on the particular day on the basis of weather situation and based on many other 
+      factors. 
+   - **Technologies Used**: Python, Pandas and Numpy.
+
+8.  **[Grade Prediction Model](https://github.com/ankita34359/Machine-Learning-Data-Processing-Grade-1-)**
+   - **Description**: This project aims to learn the basics of machine learning like data preprocessing. 
+   - **Technologies Used**: Python and Pandas.
 
 
  ## 🚀 Projects
