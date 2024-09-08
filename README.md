@@ -65,21 +65,21 @@ Here are some of my key machine learning projects:
    - **Technologies Used**: Python, Pandas and Numpy.
   
 8. **[Iris Flower Species Prediction](https://github.com/ankita34359/Machine-Learning-KNN-Algo-Iris-Model)**
-   - **Description**: This project aims to predict species of Iris flower. 
-   - **Technologies Used**: Python, Pandas and Numpy.
+    - **Description**: This project aims to predict species of Iris flower. 
+    - **Technologies Used**: Python, Pandas and Numpy.
   
 9.  **[Medical Insurance Model](https://github.com/ankita34359/Machine-Learning-Regression-Medical-Insurance-2)**
-   - **Description**: This project aims to predict medical insurance of the patients. 
-   - **Technologies Used**: Python, Pandas and Numpy.
+    - **Description**: This project aims to predict medical insurance of the patients. 
+    - **Technologies Used**: Python, Pandas and Numpy.
 
 9.  **[Daily Bike Rental](https://github.com/ankita34359/Machine-Learning-Regression-Train-Model-Daily-Bike-Rental-1)**
-   - **Description**: This project aims to predict how many bikes will rent on the particular day on the basis of weather situation and based on many other 
+    - **Description**: This project aims to predict how many bikes will rent on the particular day on the basis of weather situation and based on many other 
       factors. 
-   - **Technologies Used**: Python, Pandas and Numpy.
+    - **Technologies Used**: Python, Pandas and Numpy.
 
 10.  **[Grade Prediction Model](https://github.com/ankita34359/Machine-Learning-Data-Processing-Grade-1-)**
-   - **Description**: This project aims to learn the basics of machine learning like data preprocessing. 
-   - **Technologies Used**: Python and Pandas.
+    - **Description**: This project aims to learn the basics of machine learning like data preprocessing. 
+    - **Technologies Used**: Python and Pandas.
 
 
 ### Web Development Projects
