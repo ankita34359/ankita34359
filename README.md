@@ -159,4 +159,4 @@ Here are some of my key python projects:
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ankita-gupta-34359abcd/)
 
-<img align="right" alt="coding gif" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
