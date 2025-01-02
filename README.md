@@ -159,4 +159,4 @@ Here are some of my key python projects:
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ankita-gupta-34359abcd/)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita34359&label=Profile%20views&color=0e75b6&style=flat" alt="ankita34359" /> </p>
