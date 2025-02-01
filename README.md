@@ -35,6 +35,9 @@ I am a Web developer and DSA learner in Java. And always looking for opportuniti
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankita34359&theme=radical) 
 
+## 🏅 GitHub Achievements
+![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=ankita34359&theme=radical)
+
 ## 🚀 Project Highlights
 
  ###  Machine Learning Projects
