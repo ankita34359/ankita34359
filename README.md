@@ -38,6 +38,15 @@ I am a Web developer and DSA learner in Java. And always looking for opportuniti
 ## 🏅 GitHub Achievements
 ![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=ankita34359&theme=radical)
 
+## 🏆 GitHub Achievements
+
+- **Arctic Code Vault Contributor**: Contributed code to repositories archived in the Arctic Vault.
+- **Starstruck**: Earned 50+ stars on repositories.
+- **Galaxy Brain**: Created discussions with 5+ answers.
+- **Pull Shark**: Merged 10+ pull requests.
+- **Public Sponsor**: Sponsored open-source projects.
+
+
 ## 🚀 Project Highlights
 
  ###  Machine Learning Projects
